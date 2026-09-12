@@ -21,7 +21,7 @@ The automation layer uses advanced lookup arrays, time intelligence, and nested 
 ## 📋 Reservation Database Log Preview
 *Below is a visual snapshot of the fully automated hotel reservation system processing live guest attributes:*
 
-![Hotel Reservation Log](reservation_log.png)
+![Hotel Reservation Log](Reservation_Log.png)
 
 ## 📁 Repository Structure
 *   `Hotel_Pavilion_Ruyi_Management.xlsx` - The dynamic workbook containing database logs, master records, and automation formulas.
