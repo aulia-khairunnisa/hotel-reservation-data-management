@@ -32,7 +32,8 @@ The automation layer uses advanced lookup arrays, time intelligence, and nested 
 2. Open `Hotel Reservation Management System.xlsx` using Microsoft Excel (2019 or newer recommended).
 3. Inspect the automated columns to explore the syntax construction of the nested `INDEX-MATCH` and `MID` conditional algorithms.
 
-## 💬 Let's Connect! I am actively seeking Data Analyst opportunities where I can bridge the gap between complex data pipelines and corporate strategy.
+## 💬 Let's Connect! 
+I am actively seeking Data Analyst opportunities where I can bridge the gap between complex data pipelines and corporate strategy.
 
 LinkedIn: https://linkedin.com/in/aulia-khairunnisa
 Email: aulkhairn@gmail.com
