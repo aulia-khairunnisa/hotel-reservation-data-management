@@ -1,7 +1,7 @@
 # Hotel Reservation & Revenue Management System (Excel Portfolio)
 
 ## 📌 Project Overview
-This repository contains a comprehensive Excel-based data management system designed for a hospitality business model (**"Hotel Pavilion Ruyi"**). The project automates the entire guest lifecycle—from decoding reservation strings and calculating precise stay durations to tracking real-time arrival statuses and room revenue distributions using advanced programmatic formulas.
+This repository contains a comprehensive Excel-based data management system designed for a hospitality business model (**"Hotel Pavilion Ruyi"**). The project automates the entire guest lifecycle, from decoding reservation strings and calculating precise stay durations to tracking real-time arrival statuses and room revenue distributions using advanced programmatic formulas.
 
 ## 🗂️ Relational Data & Room Master Tables
 The architecture utilizes a dedicated reference table to enforce data consistency across all guest transactions. Data mapping is dynamically executed based on:
@@ -24,12 +24,12 @@ The automation layer uses advanced lookup arrays, time intelligence, and nested 
 ![Hotel Reservation Log](Reservation_Log.png)
 
 ## 📁 Repository Structure
-*   `Hotel_Pavilion_Ruyi_Management.xlsx` - The dynamic workbook containing database logs, master records, and automation formulas.
+*   `Hotel Reservation Management System.xlsx` - The dynamic workbook containing database logs, master records, and automation formulas.
 *   `README.md` - Complete portfolio documentation.
 
 ## 🚀 How to Use This Project
 1. Clone or download this repository.
-2. Open `Hotel_Pavilion_Ruyi_Management.xlsx` using Microsoft Excel (2019 or newer recommended).
+2. Open `Hotel Reservation Management System.xlsx` using Microsoft Excel (2019 or newer recommended).
 3. Inspect the automated columns to explore the syntax construction of the nested `INDEX-MATCH` and `MID` conditional algorithms.
 
 ## 💬 Let's Connect! I am actively seeking Data Analyst opportunities where I can bridge the gap between complex data pipelines and corporate strategy.
